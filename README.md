@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dream-19)](https://github.com/dream-19/github-readme-stats)
 -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dream-19)](https://git.io/streak-stats)
