@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![dream-19's GitHub stats](https://github-readme-stats.vercel.app/api?username=dream-19&show_icons=true&theme=iceberg&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dream-19&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dream-19&theme=iceberg)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=dream-19&theme=iceberg)](https://git.io/streak-stats) -->
